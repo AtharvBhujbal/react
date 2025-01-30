@@ -10,11 +10,11 @@ function App() {
     <div className="App">
       <Counter />
       {/* <Message /> */}
-      {/* <Greet name="Bruce">
+      <Greet name="Bruce">
         <p>This is children content</p>
       </Greet>      
       <Greet name="Superman"/>
-      <Welcome /> */}
+      <Welcome name="Atharv"/>
     </div>
   );
 }
