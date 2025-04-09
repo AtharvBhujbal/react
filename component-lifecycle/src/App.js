@@ -1,11 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
-import LifeCycleA from './components/LifeCycleA';
+import Fragment from './components/Fragment';
+import Table from './components/Table'
 
 function App() {
   return (
     <div className="App">
-      <LifeCycleA />
+      <Table></Table>
     </div>
   );
 }
